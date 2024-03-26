@@ -1,0 +1,10 @@
+org\jrimum\vallia\digitoverificador\TestModulo.class
+org\jrimum\vallia\TestCPFValidator.class
+org\jrimum\vallia\TestAbstractCPRFValidator.class
+org\jrimum\vallia\digitoverificador\TestBoletoCodigoDeBarrasDV.class
+org\jrimum\vallia\digitoverificador\TestCodigoDeCompensacaoBancosBACENDV.class
+org\jrimum\vallia\digitoverificador\TestCNPJDV.class
+org\jrimum\vallia\digitoverificador\TestTipoDeModulo.class
+org\jrimum\vallia\TestCNPJValidator.class
+org\jrimum\vallia\digitoverificador\TestBoletoLinhaDigitavelDV.class
+org\jrimum\vallia\digitoverificador\TestCPFDV.class
